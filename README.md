@@ -1,15 +1,16 @@
-Singly_linked_list pakages:
+###Singly_linked_list pakages:
 
-    go get github.com/vinaycharlie01/pkg
-    
-    
-    
+```go
+go get github.com/vinaycharlie01/pkg
 ```
+    
+    
+    
+```go
 import  Slink "github.com/vinaycharlie01/pkg/Slist"
 ```
-
-example:
-```
+#example:
+```go
 b := Slink.Slink{}
 b.Append(10)
 b.Append(20)
